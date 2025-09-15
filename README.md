@@ -10,7 +10,7 @@ En este taller realizaremos una demostración práctica de GeoNode, una platafor
 - Conocimientos previos: No son necesarios
 
 ## Tutores
-- Patricio Soriano. Responsable del Área de SIG y Desarrollo de Geoinnova. [@sigdeletras](https://x.com/sigdeletras)
+- **Patricio Soriano**. Responsable del Área de SIG y Desarrollo de Geoinnova. [@sigdeletras](https://x.com/sigdeletras)
  [+info](https://geoinnova.org/perfil/patricio-soriano-castro/)
 
 ## Guión del Taller
@@ -27,15 +27,15 @@ En este taller realizaremos una demostración práctica de GeoNode, una platafor
   - Creación de un panel de control
   - Acceso desde QGIS
 - Introducción a la administración
- - Arquitectura
- - Tipos de usuarios
- - Django Admin
- - Gestiones desde manage.py
- - API GeoNode
+  - Arquitectura
+  - Tipos de usuarios
+  - Django Admin
+  - Gestiones desde manage.py
+  - API GeoNode
 
-## Recursos necesario
+## Recursos necesarios
 - Enlace a Demo GeoNode https://stable.demo.geonode.org/#/
-- Zip de datos
+- [Zip de datos](https://github.com/geoinnova/taller_geonode_SIGLibre2025/blob/master/datos.zip)
 - Códigos rangos de accesibilidad
 
 ```xlm
@@ -45,6 +45,7 @@ En este taller realizaremos una demostración práctica de GeoNode, una platafor
               <ColorMapEntry color="#fdae61" quantity="4" label="Baja (8-12%" opacity="1"/>
               <ColorMapEntry color="#d7191c" quantity="5" label="Muy baja o no accesible (>12%)" opacity="1"/>
 ```
+- Ejercicios resueltos [geonode.geoinnova.org](https://geonode.geoinnova.org/#/)
 
 ##  Enlaces GeoNode
 - Página de GeoNode: https://geonode.org 
