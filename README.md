@@ -13,11 +13,38 @@ En este taller realizaremos una demostración práctica de GeoNode, una platafor
 - Patricio Soriano. Responsable del Área de SIG y Desarrollo de Geoinnova. [@sigdeletras](https://x.com/sigdeletras)
  [+info](https://geoinnova.org/perfil/patricio-soriano-castro/)
 
-## Datos de ejemplo
+## Guión del Taller
+- Geoinnova. Área de SIG y Servicios
+  - [Información general](https://geoinnova.org/transforma-tus-decisiones-con-mapas-con-geonode-tu-geoportal-sin-complicaciones-tecnicas-general/)
+  - [Datos técnicos u Servicios avanzados](https://geoinnova.org/geonode-listo-para-produccion-despliega-tu-portal-geoespacial-con-soporte-experto/)
+- GeoNode. Características, arquitectura, componentes y tipo de recursos
+- Prácticas Taller
+  - Acceso/Interfaz
+  - Gestión de entidades
+  - Consulta y edición
+  - Añadir servicios
+  - Creación de un mapa
+  - Creación de un panel de control
+  - Acceso desde QGIS
+- Introducción a la administración
+ - Arquitectura
+ - Tipos de usuarios
+ - Django Admin
+ - Gestiones desde manage.py
+ - API GeoNode
 
-**Google Collab**
+## Recursos necesario
+- Enlace a Demo GeoNode https://stable.demo.geonode.org/#/
+
+##  Enlaces GeoNode
+- Página de GeoNode: https://geonode.org 
+- Documentación  https://docs.geonode.org/en/master/index.html 
+- Repositorio: https://github.com/GeoNode/geonode 
+- Demostración oficial: http://master.demo.geonode.org 
+- Wiki de GeoNode: https://github.com/GeoNode/geonode/wiki 
+- Issues: https://github.com/GeoNode/geonode-project/issues 
+- Hoja de ruta: https://github.com/GeoNode/geonode/wiki/GeoNode-Improvement-Proposals 
 
 
-##  Enlaces
 
 
