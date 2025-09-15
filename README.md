@@ -35,6 +35,16 @@ En este taller realizaremos una demostración práctica de GeoNode, una platafor
 
 ## Recursos necesario
 - Enlace a Demo GeoNode https://stable.demo.geonode.org/#/
+- Zip de datos
+- Códigos rangos de accesibilidad
+
+```xlm
+              <ColorMapEntry color="#2b83ba" quantity="1" label="Óptima (<2%)" opacity="1"/>
+              <ColorMapEntry color="#abdda4" quantity="2" label="Alta (2-5%)" opacity="1"/>
+              <ColorMapEntry color="#ffffbf" quantity="3" label="Media (5-8%)" opacity="1"/>
+              <ColorMapEntry color="#fdae61" quantity="4" label="Baja (8-12%" opacity="1"/>
+              <ColorMapEntry color="#d7191c" quantity="5" label="Muy baja o no accesible (>12%)" opacity="1"/>
+```
 
 ##  Enlaces GeoNode
 - Página de GeoNode: https://geonode.org 
